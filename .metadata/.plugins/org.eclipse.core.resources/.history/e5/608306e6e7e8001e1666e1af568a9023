@@ -1,0 +1,5 @@
+package com.network.entity;
+
+public class User {
+
+}

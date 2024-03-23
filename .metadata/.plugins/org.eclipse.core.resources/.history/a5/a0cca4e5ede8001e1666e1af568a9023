@@ -1,0 +1,5 @@
+package com.recruitment.exception;
+
+public class LinkedInException {
+
+}

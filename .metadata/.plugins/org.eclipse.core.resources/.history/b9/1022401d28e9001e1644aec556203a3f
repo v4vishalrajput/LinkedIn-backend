@@ -1,0 +1,5 @@
+package com.content.dto;
+
+public class PostDTO {
+
+}

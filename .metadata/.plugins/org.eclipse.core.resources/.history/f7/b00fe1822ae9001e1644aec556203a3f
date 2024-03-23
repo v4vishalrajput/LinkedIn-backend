@@ -1,0 +1,5 @@
+package com.content.service;
+
+public interface ContentService {
+
+}

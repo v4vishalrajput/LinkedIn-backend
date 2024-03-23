@@ -1,0 +1,5 @@
+package com.network.repository;
+
+public class UserRepository {
+
+}
