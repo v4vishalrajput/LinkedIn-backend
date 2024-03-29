@@ -32,8 +32,8 @@ spring:
       host: localhost
       discovery:
         hostname: localhost
-#        health-check-path: /user/actuator/health
-#        health-check-interval: 10s
+        health-check-path: /user/actuator/health
+        health-check-interval: 10s
   data:
     mongodb:
       uri: mongodb://localhost:27017/user_db
