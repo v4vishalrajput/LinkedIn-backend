@@ -79,7 +79,7 @@ public class UserServiceImpl implements UserService {
 		dto.setSummary(sum);
 		User ent = Transformations.userDtoToEntity(dto);
 
-//		restUtil.createConnection(dto.getEmail());
+		restUtil.createConnection(dto.getEmail());
 
 		User entity = repository.save(ent);
 

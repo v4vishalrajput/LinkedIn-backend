@@ -2317,3 +2317,53 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2024-03-27 17:32:12,656 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-03-27 17:32:12,659 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\a\Documents\LinkedIn\LinkedIn-backend\userMS\src\test\resources
 2024-03-27 20:29:10,843 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-29 10:07:21,376 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-30 21:10:19,135 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-30 21:20:54,219 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-30 21:20:54,245 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-30 21:20:54,248 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\a\Documents\LinkedIn\LinkedIn-backend\contentMS\src\test\resources
+2024-03-30 21:32:28,841 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-30 21:32:28,855 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-30 21:32:28,857 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\a\Documents\LinkedIn\LinkedIn-backend\userMS\src\test\resources
+2024-03-30 21:33:09,105 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-30 21:33:09,128 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-30 21:33:09,131 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\a\Documents\LinkedIn\LinkedIn-backend\userMS\src\test\resources
+2024-03-30 21:33:44,188 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-30 21:33:46,100 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.content:contentMS:0.0.1-SNAPSHOT @ C:\Users\a\Documents\LinkedIn\LinkedIn-backend\contentMS\pom.xml.
+2024-03-30 21:33:46,612 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.user:userMS:0.0.1-SNAPSHOT @ C:\Users\a\Documents\LinkedIn\LinkedIn-backend\userMS\pom.xml.
+2024-03-30 21:33:47,761 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /userMS/src/main/java
+2024-03-30 21:33:47,762 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userMS/src/main/resources
+2024-03-30 21:33:47,762 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /userMS/src/main/resources
+2024-03-30 21:33:47,763 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /userMS/src/test/java
+2024-03-30 21:33:48,334 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2024-03-30 21:33:49,377 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-30 21:33:49,378 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-30 21:33:49,382 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\a\Documents\LinkedIn\LinkedIn-backend\contentMS\src\test\resources
+2024-03-30 21:33:50,371 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-30 21:33:50,402 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-30 21:33:50,406 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\a\Documents\LinkedIn\LinkedIn-backend\userMS\src\test\resources
+2024-03-30 21:34:02,419 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-03-30 21:34:10,284 [Worker-35: Launching userMS (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\a\Documents\LinkedIn\LinkedIn-backend\userMS
+2024-03-30 21:34:10,303 [Worker-35: Launching userMS (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -Dstyle.color=always -Dstyle.color=always
+2024-03-30 22:06:16,431 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-30 22:06:16,456 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-30 22:06:16,458 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\a\Documents\LinkedIn\LinkedIn-backend\userMS\src\test\resources
+2024-03-30 22:06:45,875 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-03-30 22:06:52,464 [Worker-35: Launching userMS (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\a\Documents\LinkedIn\LinkedIn-backend\userMS
+2024-03-30 22:06:52,465 [Worker-35: Launching userMS (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install -Dstyle.color=always -Dstyle.color=always
+2024-03-30 22:13:55,417 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-30 22:13:55,421 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-30 22:13:55,422 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\a\Documents\LinkedIn\LinkedIn-backend\userMS\src\test\resources
+2024-03-30 22:19:11,447 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-30 22:19:26,949 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-30 22:19:27,044 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-30 22:19:27,052 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\a\Documents\LinkedIn\LinkedIn-backend\contentMS\src\test\resources
+2024-03-30 22:19:32,519 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-30 22:19:32,532 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-30 22:19:32,540 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\a\Documents\LinkedIn\LinkedIn-backend\userMS\src\test\resources
+2024-03-31 12:29:59,940 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-31 12:33:47,438 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-31 12:33:47,507 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-31 12:33:47,514 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\a\Documents\LinkedIn\LinkedIn-backend\userMS\src\test\resources
+2024-03-31 13:22:02,595 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-31 13:22:03,151 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes

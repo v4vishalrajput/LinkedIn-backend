@@ -1,5 +1,0 @@
-package com.content.repository;
-
-public interface ContentRepository {
-
-}

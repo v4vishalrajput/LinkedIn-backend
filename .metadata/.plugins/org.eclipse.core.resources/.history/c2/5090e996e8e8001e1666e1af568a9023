@@ -1,5 +1,0 @@
-package com.network.exception;
-
-public class LinkedInNetworkException {
-
-}
